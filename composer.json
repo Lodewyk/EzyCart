@@ -1,0 +1,13 @@
+{
+    "name": "lodew/ezy-cart",
+    "authors": [
+        {
+            "name": "Lodewyk",
+            "email": "lodewyk.duminy@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
